@@ -1,3 +1,4 @@
+![logo](https://github.com/fahadalijs/fahadalijs/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 ### Hi there 👋
 
 <!--
